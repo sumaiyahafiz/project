@@ -43,3 +43,35 @@ h1{
 .dream-area-part img{
     width: 100% ;
 }
+#exprience-area{
+    background-image: 
+    url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 10%;
+}
+.esprience-area-part{
+    display: flex;
+}
+.esprience-area-part h3{
+    color: orangered;
+}
+.esprience-area-part div{
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
+    margin: 15px;
+}
+#women-fahion{
+    border-left: 7px solid;
+    border-image: 
+    linear-gradient(180deg,red,tomato);
+    border-image-slice: 1;
+    padding: 10px;
+}
+#baby-fahion{
+    border-left: 7px solid;
+    border-image: 
+    linear-gradient(180deg,blue,rgb(7, 119, 211));
+    border-image-slice: 1;
+    padding: 10px;
+}
